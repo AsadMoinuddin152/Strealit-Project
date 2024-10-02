@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+pymongo
+mysql-connector-python
+psycopg2-binary
+matplotlib
+seaborn
+gunicorn
